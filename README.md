@@ -34,3 +34,8 @@ To run the model on a folder containing multiple images, execute:
 
 https://github.com/user-attachments/assets/116b1b79-24df-4b58-b3f6-128ba6bf4fdc
 
+
+
+```markdown
+![SAM3 Visual Prompt Demo](repo/sam3_visual_prompt_demo_gif.gif)
+```
