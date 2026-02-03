@@ -31,7 +31,7 @@ To run the model on a folder containing multiple images, execute:
 
 ```html
 <video width="640" height="480" controls>
-    <source src="https://github.com/Elkholy2021/Evaluation_SAM3_benthic_imagery/repo/sam3_visual_prompt_demo.mp4
+    <source src="https://github.com/Elkholy2021/Evaluation_SAM3_benthic_imagery/blob/master/repo/sam3_visual_prompt_demo.mp4
     " type="video/mp4">
     Your browser does not support the video tag.
 </video>
