@@ -31,7 +31,7 @@ To run the model on a folder containing multiple images, execute:
  A demo of running SAM3 on the visual exempler prompt on benthic imagery for segmentation
 
 
-<video src="repo/sam3_visual_prompt_demo.mp4"
+<video src="./repo/sam3_visual_prompt_demo.mp4"
        controls
        width="800">
 </video>
