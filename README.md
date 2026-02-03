@@ -31,11 +31,11 @@ To run the model on a folder containing multiple images, execute:
  A demo of running SAM3 on the visual exempler prompt on benthic imagery for segmentation
 
 
+<p align="center">
+  <img src="repo/sam3_visual_prompt_demo_gif.gif" width=380 />
+</p>
+
 
 https://github.com/user-attachments/assets/116b1b79-24df-4b58-b3f6-128ba6bf4fdc
 
 
-
-```markdown
-![SAM3 Visual Prompt Demo](repo/sam3_visual_prompt_demo_gif.gif)
-```
