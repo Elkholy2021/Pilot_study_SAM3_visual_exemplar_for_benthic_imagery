@@ -32,7 +32,7 @@ To run the model on a folder containing multiple images, execute:
 
 
 <p align="center">
-  <img src="repo/sam3_visual_prompt_demo_gif.gif" width=800 />
+  <img src="repo/sam3_visual_prompt_demo.gif" width=800 />
 </p>
 
 
