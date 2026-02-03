@@ -28,12 +28,8 @@ To run the model on a folder containing multiple images, execute:
 
 ## Visual exempler prompt mode
 
-
-```html
-<video width="640" height="480" controls>
-    <source src="https://github.com/Elkholy2021/Evaluation_SAM3_benthic_imagery/blob/master/repo/sam3_visual_prompt_demo.mp4
-    " type="video/mp4">
-    Your browser does not support the video tag.
+ A demo of running SAM3 on the visual exempler prompt on benthic imagery for segmentation
+<video src="https://github.com/Elkholy2021/Evaluation_SAM3_benthic_imagery/assets/videos/sam3_visual_prompt_demo.mp4"
+       controls
+       width="800">
 </video>
-```
-
