@@ -1,4 +1,5 @@
-# Evaluation SAM3 on Benthic Imagery
+# Pilot study of SAM3 visual exemplar for benthic imagery
+
 
 ## Overview
 This repository shows a demo of Segment Anything Model 3 (SAM3) on benthic imagery datasets. 
